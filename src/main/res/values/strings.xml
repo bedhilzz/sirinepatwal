@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sirine Patwal</string>
+    <string name="phsr_btn">PHSR</string>
+    <string name="yelp_btn">YELP</string>
+    <string name="wail_btn">WAIL</string>
+    <string name="horn_btn">HORN</string>
+    <string name="stop_btn">STOP</string>
+</resources>
